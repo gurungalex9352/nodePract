@@ -1,12 +1,15 @@
 import 'package:ecommerce/views/credentials/register.dart';
 import 'package:flutter/material.dart';
 
+// Modified Method
+
 class LoginPage extends StatefulWidget {
   LoginPage({super.key});
 
   @override
   State<LoginPage> createState() => _LoginPageState();
 }
+
 
 class _LoginPageState extends State<LoginPage> {
 
